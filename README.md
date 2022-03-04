@@ -2,8 +2,8 @@
   
  ### Hello I'm Wexy
 ![version :12.5.3](https://img.shields.io/badge/version-12.5.3-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=wEXY&color=red)&nbsp;
-[![GitHub wEXY](https://img.shields.io/github/followers/wEXY?label=follow&style=social)](https://github.com/wEXY)&nbsp;
+![profile count](https://komarev.com/ghpvc/?imosmdrk58=wEXY&color=red)&nbsp;
+[![GitHub wEXY](https://img.shields.io/github/followers/imosmdrk58?label=follow&style=social)](https://github.com/imosmdrk58)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Turkey, İstanbul Lise (2019-2022).\
